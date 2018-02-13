@@ -13,3 +13,5 @@ npm-debug.log
 # temporary files
 .*.sw[op]
 .commits.tmp
+coverage/
+.nyc_output/
